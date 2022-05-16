@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrinali488
-- 📫 How to reach me on mrinalithakur13@gmail.com
+- 👋 Hi, I’m Mrinali
+- 📫 reach me on mrinalithakur13@gmail.com
 
 <!---
 mrinali488/mrinali488 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
